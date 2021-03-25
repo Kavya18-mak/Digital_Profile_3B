@@ -2,10 +2,10 @@ Thota Kavya
 ============
 
 -------------------     ----------------------------
-Email                        kavyat2k@gmail.com
-StudentID                          Y18IT106
-Phone                          9542294794
-Linkedin                      [Linkedin](https://www.linkedin.com/login)
+Email      :                  kavyat2k@gmail.com
+StudentID  :                        Y18IT106
+Phone      :                    9542294794
+Linkedin   :                   [Linkedin](https://www.linkedin.com/login)
 -------------------     ----------------------------
 
 Education
