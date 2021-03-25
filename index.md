@@ -1,10 +1,11 @@
-Johnny Coder
+Thota Kavya
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Email                        kavyat2k@gmail.com
+StudentID                          Y18IT106
+Phone                          9542294794
+Linkedin                      [https://www.linkedin.com/login]
 -------------------     ----------------------------
 
 Education
